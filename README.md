@@ -97,6 +97,5 @@ Olá! 👋
 ## 🐍 SsSsSsSs
 
 <div align="center">
-  <img src="https://github.com/SilvaJoaoP/SilvaJoaoP/blob/main/dist/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/SilvaJoaoP/SilvaJoaoP/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
-
