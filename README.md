@@ -1,15 +1,68 @@
-<h2 align="left">About Me</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=5000&pause=1000&color=0FF731&center=true&vCenter=true&width=435&lines=Olá!+Eu+sou+o+João+Pedro!;" alt="Typing SVG" />
+</div>
 
-###
+## 👨‍💻 Sobre Mim
 
-<p align="left">Olá! 👋
-<br>----<br>Me chamo João Pedro e atualmente estou cursando o tecnólogo de Sistemas para Internet pelo IFPE.<br>Sou formado como técnico em Suporte e Manutenção em Informática e amo descobrir novas tecnologias e suas integrações!<br>-----------------------------------</p>
+<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-###
+```javascript
+const joao = {
+  formacao: "Tecnólogo em Sistemas para Internet - IFPE",
+  interesses: ["Desenvolvimento Web", "Novas Tecnologias", "Integrações"],
+  hobbies: ["Música", "Jogos", "Tecnologia"]
+};
+```
 
-<h2 align="left">Contact Me</h2>
+Olá! 👋
+<br>Sou João Pedro, atualmente cursando o tecnólogo de Sistemas para Internet pelo IFPE.
+<br>Formado como técnico em Suporte e Manutenção em Informática, amo descobrir novas tecnologias e suas integrações!
 
-###
+## 🚀 Habilidades Técnicas
+
+### Linguagens & Frameworks
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" title="HTML5" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" title="CSS3" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" title="JavaScript" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" title="PHP" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo" title="Laravel" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" title="Bootstrap" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" title="MySQL" />
+</div>
+
+### Ferramentas & Ambientes
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" title="VS Code" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" title="GitHub" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" title="Git" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" title="Figma" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" title="Linux" />
+  <img width="12" />
+</div>
+
+## 📚 Atualmente Aprendendo
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" title="React" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" title="Node.js" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" title="Java" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo" title="Laravel" />
+</div>
+
+## 📫 Entre em Contato
 
 <div align="center">
   <a href="mailto:joaopedro.s.dev@gmail.com" target="_blank">
@@ -26,52 +79,16 @@
   </a>
 </div>
 
-###
-
-<h2 align="left">Techs</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-</div>
-
-###
-
-<h2 align="center">StatS</h2>
-
-###
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SilvaJoaoP&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1&custom_title=My%20Github%20Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SilvaJoaoP&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=chartreuse-dark&hide_border=false&order=2&custom_title=My%20Most%20Used%20Languages" height="150" alt="languages graph"  />
+</div>
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=SilvaJoaoP&locale=en&mode=weekly&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=SilvaJoaoP&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SilvaJoaoP&radius=16&theme=chartreuse-dark&area=true&order=5&custom_title=My%20Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<h2 align="left">What I'm Listening To</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31hrsjldjtekapfhyzuaa2wosfzq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hrsjldjtekapfhyzuaa2wosfzq&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
