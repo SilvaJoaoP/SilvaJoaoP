@@ -92,3 +92,11 @@ Olá! 👋
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SilvaJoaoP&radius=16&theme=chartreuse-dark&area=true&order=5&custom_title=My%20Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
+
+
+## 🐍 SsSsSsSs
+
+<div align="center">
+  <img src="https://github.com/SilvaJoaoP/SilvaJoaoP/blob/main/dist/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
