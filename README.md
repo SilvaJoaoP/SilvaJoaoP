@@ -71,7 +71,7 @@ Olá! 👋
   <a href="https://discord.com/users/drdollyttle" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
   </a>
-  <a href="https://www.instagram.com/jpds.v1/" target="_blank">
+  <a href="https://www.instagram.com/jpd_slv/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
   <a href="https://api.whatsapp.com/send?phone=5581986104543" target="_blank">
