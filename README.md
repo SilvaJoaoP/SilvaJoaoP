@@ -75,7 +75,7 @@ My main goal is to use technology to simplify bureaucratic processes and solve r
 
 # 🧩 Featured Projects
 
-## 📌 SRE — Student Request System
+## 📌 SRE — Sistema de Requerimento do Estudante
 ### Academic Extension Project • IFPE
 
 Web platform developed to digitize and streamline internal academic processes at IFPE.
@@ -92,7 +92,7 @@ My role includes requirements gathering, system architecture planning, database 
 
 ---
 
-## 📌 Photofy
+## 📌 Fokkos
 ### Final Graduation Project (TCC)
 
 Platform designed to securely connect professional photographers with potential clients through a centralized system.
