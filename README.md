@@ -80,7 +80,9 @@ My main goal is to use technology to simplify bureaucratic processes and solve r
 
 Web platform developed to digitize and streamline internal academic processes at IFPE.
 
-My role includes requirements gathering, system architecture planning, database structuring, and full application development.
+Acting both as developer and project coordinator, I'm responsible for requirements gathering, process mapping, architecture planning, database structuring, feature development, and development workflow monitoring throughout the project lifecycle.
+
+The project focuses on reducing bureaucracy, improving request traceability, and modernizing internal academic workflows.
 
 ### Technologies
 `Laravel` • `PHP` • `JavaScript` • `TailwindCSS` • `MySQL`
